@@ -1,0 +1,1 @@
+Just open the Project.cpp file into your Codeblocks editor and Run. 
